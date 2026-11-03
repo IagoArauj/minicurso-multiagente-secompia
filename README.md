@@ -2,7 +2,11 @@
 
 Material de apoio de um minicurso introdutório sobre **agentes de IA e sistemas multiagentes**, com exemplos práticos em **Python**, **Hugging Face Transformers** e **LangGraph**, apresentado na SECompIA 2026.
 
-Durante o minicurso, vamos construir uma aplicação que recebe um texto em inglês, traduz para português brasileiro e depois o simplifica. O objetivo não é criar um tradutor de produção, mas entender como **separar responsabilidades entre agentes, compartilhar informações e controlar fluxos de execução**.
+Durante o minicurso, vamos construir uma aplicação que recebe um texto em inglês, traduz para português brasileiro e depois o simplifica. O objetivo não é criar um tradutor de produção, mas entender como **separar responsabilidades entre agentes, compartilhar informações e controlar fluxos de execução**. 
+
+**Para abrir diretamente o Jupyter Notebook no Google Colaboratory, clique no botão abaixo**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IagoArauj/minicurso-multiagente-secompia/blob/main/minicurso_multiagentes.ipynb)
 
 ## O que vamos construir?
 
